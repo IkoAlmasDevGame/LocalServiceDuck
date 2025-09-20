@@ -1,0 +1,31 @@
+.joint-agency {
+   text-decoration: none;
+}
+
+.joint-agency:hover {
+   text-decoration: underline;
+}
+
+.admin-lsd {
+   text-decoration: none;
+}
+
+.admin-lsd:hover {
+   text-decoration: underline;
+}
+
+.sales-lsd-agency {
+   text-decoration: none;
+}
+
+.sales-lsd-agency:hover {
+   text-decoration: underline;
+}
+
+.contact-person {
+   text-decoration: none;
+}
+
+.contact-person:hover {
+   text-decoration: underline;
+}
